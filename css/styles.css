@@ -354,8 +354,8 @@ template {
 /*              Base styles                      */
 /* ============================================= */
 * {
-  font-family: 'Lato', sans-serif;
-  color: #777;
+  font-family: "Lato", sans-serif;
+  color: #000;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
